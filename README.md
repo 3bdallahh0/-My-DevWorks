@@ -15,3 +15,13 @@ The project features a simple and user-friendly interface, with the ability to e
 
 # 🎬 Demo
 https://github.com/user-attachments/assets/37464820-a66d-4187-8073-66bfdf2722e2
+
+## Technologies Used 🛠️
+
+- **ASP.NET Core MVC** – for building web applications
+- **Bootstrap 5** – for responsive and modern UI design
+- **SQL Server / MySQL** – for database management
+- **C#** – programming language for backend and desktop apps
+- **Visual Studio** – development environment
+- **Git & GitHub** – version control and repository hosting
+
