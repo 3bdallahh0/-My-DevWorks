@@ -14,7 +14,4 @@ The project features a simple and user-friendly interface, with the ability to e
 - Clean and modern interface
 
 # 🎬 Demo
-
-Click the image below to watch the demo:
-
-[![Demo Video](https://img.icons8.com/ios/452/video.png)](SoftLanding.mp4)
+https://github.com/user-attachments/assets/37464820-a66d-4187-8073-66bfdf2722e2
