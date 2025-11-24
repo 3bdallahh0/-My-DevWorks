@@ -14,7 +14,9 @@ The project features a simple and user-friendly interface, with the ability to e
 - Clean and modern interface
 
 # 🎬 Demo
-https://github.com/user-attachments/assets/37464820-a66d-4187-8073-66bfdf2722e2
+
+[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 
 ## Technologies Used 🛠️
 
