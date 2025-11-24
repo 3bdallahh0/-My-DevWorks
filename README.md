@@ -15,7 +15,7 @@ The project features a simple and user-friendly interface, with the ability to e
 
 # 🎬 Demo
 
-[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/37464820-a66d-4187-8073-66bfdf2722e2)
 
 
 ## Technologies Used 🛠️
