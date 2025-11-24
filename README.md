@@ -4,3 +4,11 @@ This repository contains a collection of C# projects that I have developed as pa
 # Soft Landing
 This project aims to create a seamless and secure user data registration form using ASP.NET Core MVC and MySQL for data storage.  
 The project features a simple and user-friendly interface, with the ability to expand later to support additional features such as email verification and notifications.
+
+# Features ✨
+
+- User registration with validation
+- Secure data storage in MySQL
+- Responsive UI using Bootstrap 5
+- Easy to expand for future features
+- Clean and modern interface
