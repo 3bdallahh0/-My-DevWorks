@@ -17,4 +17,4 @@ The project features a simple and user-friendly interface, with the ability to e
 
 Click the image below to watch the demo:
 
-[![Demo Video](https://img.icons8.com/ios/452/video.png)](Soft Landing.mp4)
+[![Demo Video](https://img.icons8.com/ios/452/video.png)](SoftLanding.mp4)
