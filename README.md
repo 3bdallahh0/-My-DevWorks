@@ -12,7 +12,7 @@ The project features a simple and user-friendly interface, with the ability to e
 - Easy to expand for future features
 - Clean and modern interface
 
-# 🎬 Demo
+# Demo 🎬
 
 [![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/37464820-a66d-4187-8073-66bfdf2722e2)
 
@@ -63,11 +63,9 @@ Web Tasker is a simple web application built with ASP.NET Core MVC, Bootstrap 5,
 - **Database:** SQL Server  
 - **Tools:** Visual Studio, Git & GitHub
 
-### 4️⃣ GIF قصير من المشروع
-[![Project GIF](https://github.com/user-attachments/assets/your-demo.gif)](https://github.com/user-attachments/assets/7b31523a-12b2-469f-b419-e901167de215)
+# Demo 🎬
+[![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/7b31523a-12b2-469f-b419-e901167de215)
 
-### 3️⃣ زر نصي
-[▶ Watch Demo](https://github.com/user-attachments/assets/7b31523a-12b2-469f-b419-e901167de215)
 
 
 
