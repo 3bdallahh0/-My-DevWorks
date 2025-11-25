@@ -66,6 +66,32 @@ Web Tasker is a simple web application built with ASP.NET Core MVC, Bootstrap 5,
 [![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/7b31523a-12b2-469f-b419-e901167de215)
 
 
+# Daily Brew ☕️
+
+**Daily Brew** is a desktop-inspired web application for a café, built using **ASP.NET Core MVC**, **Bootstrap 5**, and **SQL Server**. The project is designed to give users a smooth and visually appealing experience while browsing the café menu, placing orders, or contacting the café. The interface is clean, modern, and divided into interactive sections.
+
+# Features ✨
+
+- Implemented interactive menu and order system using **C# and MVC Controllers**  
+- Integrated database management with **SQL Server** for storing orders and menu items  
+- Developed modals for menu, order, and contact forms using **Bootstrap 5** and Razor Pages  
+- Applied **MVC architecture** for clean separation of concerns and maintainable code  
+- Used **Bootstrap 5** for responsive layout and modern UI design  
+- Implemented event handling for buttons and form submissions to simulate real-time interactions  
+
+# Technologies Used  🛠️
+- **Framework:** ASP.NET Core MVC  
+- **Frontend:** Bootstrap 5, HTML, CSS  
+- **Backend / Database:** SQL Server  
+- **Tools:** Visual Studio, Git & GitHub  
+
+# Demo 🎬
+
+[![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/7b31523a-12b2-469f-b419-e901167de215)
+
+
+
+
 
 
 
