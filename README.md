@@ -12,7 +12,7 @@ The project features a simple and user-friendly interface, with the ability to e
 - Easy to expand for future features
 - Clean and modern interface
 
-# Demo 🎬
+# Demo 🎥
 
 [![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/37464820-a66d-4187-8073-66bfdf2722e2)
 
@@ -41,7 +41,7 @@ Implements object-oriented programming principles in C# for maintainable code.
 
 Easy to use for both beginners and advanced users.
 
-# Screenshots
+# Screenshots 📷
 ![Screenshot 1](https://github.com/user-attachments/assets/6cf751f6-d218-4fe7-b506-9e0c82a17c21)
 ![Screenshot 2](https://github.com/user-attachments/assets/c29bec2c-607e-461c-bf3f-e082960d485a)
 
@@ -62,7 +62,7 @@ Web Tasker is a simple web application built with ASP.NET Core MVC, Bootstrap 5,
 - **Database:** SQL Server  
 - **Tools:** Visual Studio, Git & GitHub
 
-# Demo 🎬
+# Demo 🎥
 [![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/7b31523a-12b2-469f-b419-e901167de215)
 
 
@@ -85,7 +85,7 @@ Web Tasker is a simple web application built with ASP.NET Core MVC, Bootstrap 5,
 - **Backend / Database:** SQL Server  
 - **Tools:** Visual Studio, Git & GitHub  
 
-# Demo 🎬
+# Demo 🎥
 
 [![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/6ce588e3-bcae-43c6-a58f-4ee39e67d735)
 
