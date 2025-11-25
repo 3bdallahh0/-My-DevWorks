@@ -43,7 +43,7 @@ Easy to use for both beginners and advanced users.
 
 # Screenshots
 ![Screenshot 1](https://github.com/user-attachments/assets/6cf751f6-d218-4fe7-b506-9e0c82a17c21)
-![Screenshot 2](https://github.com/3bdallahh0/-My-DevWorks/blob/main/Images/IMG-20231210-WA0044.jpg?raw=true)
+![Screenshot 2](https://github.com/user-attachments/assets/c29bec2c-607e-461c-bf3f-e082960d485a)
 
 
 # Web Tasker 🌐
