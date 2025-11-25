@@ -6,7 +6,6 @@ This project aims to create a seamless and secure user data registration form us
 The project features a simple and user-friendly interface, with the ability to expand later to support additional features such as email verification and notifications.
 
 # Features ✨
-
 - User registration with validation
 - Secure data storage in MySQL
 - Responsive UI using Bootstrap 5
@@ -26,4 +25,23 @@ The project features a simple and user-friendly interface, with the ability to e
 - **C#** – programming language for backend and desktop apps
 - **Visual Studio** – development environment
 - **Git & GitHub** – version control and repository hosting
+
+# Sign Language
+This desktop application recognizes and translates sign language gestures. It uses SQL Server to manage user data and gestures efficiently. The project is built in C# following object-oriented programming principles for clean and maintainable code, and features a user-friendly interface designed with Windows Forms for smooth interaction.
+
+# Features ✨
+
+Recognizes and translates sign language gestures into text.
+
+Stores and manages user data and gesture history in SQL Server.
+
+Intuitive and user-friendly interface using Windows Forms.
+
+Implements object-oriented programming principles in C# for maintainable code.
+
+Easy to use for both beginners and advanced users.
+
+# Screenshots 📷
+
+  
 
