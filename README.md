@@ -17,7 +17,7 @@ The project features a simple and user-friendly interface, with the ability to e
 [![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/37464820-a66d-4187-8073-66bfdf2722e2)
 
 
-## Technologies Used 🛠️
+# Technologies Used 🛠️
 
 - **ASP.NET Core MVC** – for building web applications
 - **Bootstrap 5** – for responsive and modern UI design
@@ -45,6 +45,28 @@ Easy to use for both beginners and advanced users.
 
 ![Screenshot 1](https://github.com/3bdallahh0/-My-DevWorks/blob/main/Images/IMG-20231208-WA0012.jpg?raw=true)
 ![Screenshot 2](https://github.com/3bdallahh0/-My-DevWorks/blob/main/Images/IMG-20231210-WA0044.jpg?raw=true)
+
+
+# Web Tasker 🌐
+Web Tasker is a simple web application built with ASP.NET Core MVC, Bootstrap 5, and SQL Server. The application features a clean and modern interface, with the main page divided into two sections: one for user registration (email and password) and the other for a visually appealing background layout.
+
+# Features ✨
+- User registration with email and password  
+- Secure storage of user data using SQL Server  
+- Responsive and modern design using Bootstrap 5  
+- Clean MVC architecture for maintainable and scalable code  
+- Split-page layout for a professional look and user-friendly interaction
+
+# Technologies Used 🛠️
+- **Framework:** ASP.NET Core MVC  
+- **Frontend:** Bootstrap 5, HTML, CSS  
+- **Database:** SQL Server  
+- **Tools:** Visual Studio, Git & GitHub
+
+# 🎬 Demo
+
+[![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/37464820-a66d-4187-8073-66bfdf2722e2)
+
 
   
 
