@@ -90,12 +90,10 @@ Web Tasker is a simple web application built with ASP.NET Core MVC, Bootstrap 5,
 [![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/6ce588e3-bcae-43c6-a58f-4ee39e67d735)
 
 # Author  
-
 **Abdallah Mohamed**
-[![GitHub Profile](https://img.shields.io/badge/GitHub_Profile-000?style=for-the-badge)](https://github.com/3bdallahh0/3bdallahh0/blob/main/README.md)
 
-
-
+### 🔗 GitHub Profile  
+[Visit My GitHub](https://github.com/3bdallahh0/3bdallahh0/blob/main/README.md)
 
 
 
