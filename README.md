@@ -91,9 +91,7 @@ Web Tasker is a simple web application built with ASP.NET Core MVC, Bootstrap 5,
 
 # Author  
 **Abdallah Mohamed**
-
-### 🔗 GitHub Profile  
-[Visit My GitHub](https://github.com/3bdallahh0/3bdallahh0/blob/main/README.md)
+[ GitHub Profile ](https://github.com/3bdallahh0/3bdallahh0/blob/main/README.md)
 
 
 
