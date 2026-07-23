@@ -114,7 +114,7 @@ A modern coworking space web application designed to provide an engaging and pro
 - **Framework:** ASP.NET Core MVC
 - **Programming Language:** C#
 - **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
-- **AI Tools:** OpenCode AI, ChatGPT
+- **AI Tools:** OpenCode AI
 - **Tools:** Visual Studio, Git & GitHub
 
 # Demo 🎥
