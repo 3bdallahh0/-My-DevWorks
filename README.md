@@ -95,6 +95,33 @@ A user-friendly web application designed to provide a smooth and visually appeal
 
 [![Watch Demo](https://img.icons8.com/ios/452/video.png)](https://github.com/user-attachments/assets/6ce588e3-bcae-43c6-a58f-4ee39e67d735)
 
+
+# Forge Reality 🏢
+
+A modern coworking space web application designed to provide an engaging and professional experience for exploring workspaces, services, membership plans, and company information. The website features a clean industrial-inspired design with responsive layouts and interactive user interface components.
+
+# Features ✨
+- Developed using **ASP.NET Core MVC** with a clean MVC architecture
+- Designed a modern and responsive UI using **Bootstrap 5**
+- Created an interactive homepage with image carousel and hero section
+- Implemented pricing plans with monthly/yearly toggle
+- Added services, features, locations, and contact sections
+- Used **SQL Server** with **Entity Framework Core** for database management
+- Applied Razor Views for dynamic page rendering
+- Responsive design optimized for desktop and mobile devices
+- Leveraged **AI-assisted development** to improve productivity, code quality, and UI implementation
+- Utilized **OpenCode AI** for code suggestions, debugging assistance, and development workflow optimization
+
+# Technologies Used 🛠️
+- **Framework:** ASP.NET Core MVC
+- **Programming Language:** C#
+- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
+- **Backend / Database:** SQL Server, Entity Framework Core
+- **AI Tools:** OpenCode AI, ChatGPT
+- **Tools:** Visual Studio, Git & GitHub
+
+
+
 # 👤 Author  
 **Abdallah Mohamed**
 
