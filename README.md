@@ -106,8 +106,6 @@ A modern coworking space web application designed to provide an engaging and pro
 - Created an interactive homepage with image carousel and hero section
 - Implemented pricing plans with monthly/yearly toggle
 - Added services, features, locations, and contact sections
-- Used **SQL Server** with **Entity Framework Core** for database management
-- Applied Razor Views for dynamic page rendering
 - Responsive design optimized for desktop and mobile devices
 - Leveraged **AI-assisted development** to improve productivity, code quality, and UI implementation
 - Utilized **OpenCode AI** for code suggestions, debugging assistance, and development workflow optimization
